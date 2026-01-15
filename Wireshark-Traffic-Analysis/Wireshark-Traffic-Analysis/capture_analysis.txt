@@ -1,0 +1,7 @@
+Traffic Analysis Summary:
+
+- TCP traffic observed during web browsing sessions
+- DNS queries generated during domain resolution
+- ICMP packets observed during ping tests
+- Repeated SYN packets indicated possible scanning behavior
+- Normal traffic differentiated from abnormal patterns

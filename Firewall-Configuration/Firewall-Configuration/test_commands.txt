@@ -1,0 +1,10 @@
+Commands Used for Testing:
+
+ping google.com
+
+ping 8.8.8.8
+
+nmap -p 80 localhost
+
+Browser Test:
+- Attempted to open websites after blocking Port 80

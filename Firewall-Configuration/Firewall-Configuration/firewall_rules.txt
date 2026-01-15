@@ -1,0 +1,15 @@
+Firewall Rules Implemented:
+
+1. Block ICMP (Ping) Traffic
+   - Protocol: ICMPv4
+   - Direction: Inbound
+   - Action: Block
+
+2. Block HTTP Traffic
+   - Protocol: TCP
+   - Port: 80
+   - Direction: Inbound
+   - Action: Block
+
+3. Default Rule
+   - Allow other necessary traffic

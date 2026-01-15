@@ -1,0 +1,8 @@
+Wireshark Filters Used:
+
+tcp
+udp
+http
+dns
+icmp
+tcp.port == 80
